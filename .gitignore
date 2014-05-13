@@ -1,2 +1,4 @@
 dist
 .idea
+TracKeyHandler.egg-info/
+build
