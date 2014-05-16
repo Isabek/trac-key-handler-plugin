@@ -10,6 +10,6 @@ setup(name=PACKAGE,
           'TracKeyHandler.matcher = keyhandler.matcher'
       ]},
       package_data={
-          'tracker': ['htdocs/js/*.js']},
+          'keyhandler': ['htdocs/js/*.js']},
       install_requires=['trac']
 )
